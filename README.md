@@ -69,11 +69,11 @@ The simulation helps visualize how different cache configurations affect perform
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mix05klad/cache-memory.git
+   git clone https://github.com/mix05klad/CacheSimulator.git
    
 2. Navigate to the project directory:
     ```bash
-    cd cache-memory
+    cd CacheSimulator
     
 3. Compile the source code:
     ```bash
